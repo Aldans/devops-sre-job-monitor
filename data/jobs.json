@@ -1,6 +1,543 @@
 {
-  "generated_at": null,
-  "total": 0,
-  "jobs": [],
-  "sources_status": {}
+  "generated_at": "2026-04-07T06:58:31.145748Z",
+  "total": 51,
+  "jobs": [
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "Poland - Remote",
+      "url": "https://job-boards.greenhouse.io/ingenious/jobs/4674007005",
+      "source": "greenhouse:ingenious",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "Remote",
+      "url": "https://jobs.lever.co/quokka/f9ec8f4e-e18f-436a-9da2-875739db2c3e",
+      "source": "lever:quokka",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "Remote - India",
+      "url": "https://jobs.lever.co/lucidworks/34b93954-d022-41f9-804a-94cf9b920ca2",
+      "source": "lever:lucidworks",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Devops Engineer",
+      "company": null,
+      "location": "Remote",
+      "url": "https://jobs.lever.co/brightedge/f0f18ff1-bf64-4a24-8521-1030cd05adcd",
+      "source": "lever:brightedge",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Salesforce DevOps Engineer",
+      "company": null,
+      "location": "Remote",
+      "url": "https://jobs.lever.co/verifiable/d73c43ff-6803-4b5e-972f-0f7afd923f21",
+      "source": "lever:verifiable",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "Remote - Mexico City",
+      "url": "https://jobs.lever.co/lucidworks/09f2f2cd-81e1-41f9-9774-d5dfa2e0e4ed",
+      "source": "lever:lucidworks",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "Remote - US",
+      "url": "https://jobs.lever.co/lucidworks/915589d5-0546-4329-b22b-d6656b3d35dc",
+      "source": "lever:lucidworks",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior SRE/DevOps Engineer",
+      "company": null,
+      "location": "Global Remote",
+      "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee",
+      "source": "lever:metabase",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": null,
+      "location": "United States (Remote)",
+      "url": "https://jobs.lever.co/regrello/e4222908-c38b-4c4c-9067-9f66d94c0be2",
+      "source": "lever:regrello",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": " DevOps Engineer",
+      "company": null,
+      "location": "Los Angeles, California, United States",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4659413006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 2
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Production Support Analyst/DevOps Engineer",
+      "company": null,
+      "location": "Montréal, Quebec, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617629006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "DevOps - Symfony Bare Metal Linux",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/a815cd77-309a-4c0e-be4a-1f1fe2660600",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4449284006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/E0F1F3EEF9",
+      "source": "workable:tetrascience",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/5E8674A381",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/ED54675F67",
+      "source": "workable:telestream",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/17B2F56501",
+      "source": "workable:total-ai-systems",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer - Cloud & Edge Infrastructure",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/84DE545F4F",
+      "source": "workable:clear-labs",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer - Hybrid",
+      "company": null,
+      "location": "Dayton, Ohio",
+      "url": "https://job-boards.greenhouse.io/tenet3/jobs/8435955002",
+      "source": "greenhouse:tenet3",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer/ Production Support Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4656487006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer/ Production Support Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4605796006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Google Cloud Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/ADCD7A216B",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "IT SRE",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/7078f2db-9ee3-46fd-bd99-7b664c64025f",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Junior SRE/DevOps Engineer",
+      "company": null,
+      "location": "Athina, Attica, Greece",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4565571006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Lead Platform Engineer - Search Platform",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/00D96E7292",
+      "source": "workable:tetrascience",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Principal SRE",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/ebd333f9-de85-444d-84a4-58c44f26720f",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Product Manager Kubernetes",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/9de83e6f-30af-418c-8e6a-fcd1bc76759c",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4612131006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/244FC994E1",
+      "source": "workable:reversinglabs",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Belgrade, Belgrade, Serbia",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4645095006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4644757006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Belgrade, Belgrade, Serbia",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4655027006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4624364006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4644737006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior Site Reliability Engineer: (Mexico - Monterrey)",
+      "company": null,
+      "location": "Monterrey",
+      "url": "https://jobs.lever.co/regrello/b59962e0-e244-4f03-9073-dfc4c362055f",
+      "source": "lever:regrello",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior Software Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/444086D7AE",
+      "source": "workable:tetrascience",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Site Reliability Engineer (SRE) - AI GPU Clusters",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/ba09e620-bfd3-4868-9c80-a276cd7bf281",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Site Reliability Engineer (SRE) - Network Products",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/bfcb228c-ed27-42b0-a799-d6bf0b93acd8",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Site Reliability Engineer / Production Support Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Software Engineer II (DevOps)",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/753C427002",
+      "source": "workable:prosync",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Software Engineer III (DevOps)",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/4380EEFF26",
+      "source": "workable:prosync",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "mthree - Junior  Production Support Analyst / SRE ",
+      "company": null,
+      "location": "UK",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4596498006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    }
+  ],
+  "sources_status": {
+    "wellfound": "ok: 0",
+    "startup.jobs": "ok: 0",
+    "workatastartup": "ok: 0",
+    "greenhouse:life360": "ok: 28",
+    "greenhouse:altium": "ok: 73",
+    "greenhouse:ingenious": "ok: 8",
+    "greenhouse:mthreerecruitingportal": "ok: 55",
+    "greenhouse:tenet3": "ok: 4",
+    "lever:brightedge": "ok: 26",
+    "lever:regrello": "ok: 14",
+    "lever:quokka": "ok: 4",
+    "lever:lucidworks": "ok: 7",
+    "lever:scaleway": "ok: 40",
+    "lever:metabase": "ok: 16",
+    "lever:remofirst": "ok: 20",
+    "lever:verifiable": "ok: 7",
+    "lever:safetyculture-2": "ok: 38",
+    "workable:tetrascience": "ok: 38",
+    "workable:systems-engineering-solutions-corporation": "ok: 29",
+    "workable:squaredev": "ok: 12",
+    "workable:telestream": "ok: 4",
+    "workable:prosync": "ok: 23",
+    "workable:total-ai-systems": "ok: 9",
+    "workable:clear-labs": "ok: 4",
+    "workable:reversinglabs": "ok: 12"
+  }
 }
