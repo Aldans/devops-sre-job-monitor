@@ -1,0 +1,74 @@
+{
+  "greenhouse": [
+    {
+      "board_token": "life360"
+    },
+    {
+      "board_token": "altium"
+    },
+    {
+      "board_token": "ingenious"
+    },
+    {
+      "board_token": "mthreerecruitingportal"
+    },
+    {
+      "board_token": "tenet3"
+    }
+  ],
+  "lever": [
+    {
+      "hostname": "brightedge"
+    },
+    {
+      "hostname": "regrello"
+    },
+    {
+      "hostname": "quokka"
+    },
+    {
+      "hostname": "lucidworks"
+    },
+    {
+      "hostname": "scaleway"
+    },
+    {
+      "hostname": "metabase"
+    },
+    {
+      "hostname": "remofirst"
+    },
+    {
+      "hostname": "verifiable"
+    },
+    {
+      "hostname": "safetyculture-2"
+    }
+  ],
+  "workable": [
+    {
+      "account_slug": "tetrascience"
+    },
+    {
+      "account_slug": "systems-engineering-solutions-corporation"
+    },
+    {
+      "account_slug": "squaredev"
+    },
+    {
+      "account_slug": "telestream"
+    },
+    {
+      "account_slug": "prosync"
+    },
+    {
+      "account_slug": "total-ai-systems"
+    },
+    {
+      "account_slug": "clear-labs"
+    },
+    {
+      "account_slug": "reversinglabs"
+    }
+  ]
+}

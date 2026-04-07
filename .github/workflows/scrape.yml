@@ -1,0 +1,35 @@
+name: Scrape jobs
+
+on:
+  schedule:
+    - cron: "0 17 * * *"  # 10:00 LA
+    - cron: "0 1 * * *"   # 18:00 LA
+  workflow_dispatch: {}
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python -m scraper.pipeline
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json
+          git commit -m "Update jobs [skip ci]" || echo "No changes to commit"
+          git push
