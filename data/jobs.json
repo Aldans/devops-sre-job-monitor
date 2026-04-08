@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T03:46:45.525552Z",
-  "total": 54,
+  "generated_at": "2026-04-08T18:01:47.399534Z",
+  "total": 53,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -253,16 +253,6 @@
       "priority": 4
     },
     {
-      "title": "Google Cloud Platform Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/ADCD7A216B",
-      "source": "workable:systems-engineering-solutions-corporation",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "IT SRE",
       "company": null,
       "location": "Paris",
@@ -375,8 +365,8 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -385,8 +375,8 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -425,18 +415,8 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4644757006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior SRE Engineer",
-      "company": null,
-      "location": "Belgrade, Belgrade, Serbia",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4645095006",
+      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4624364006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -455,8 +435,18 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4624364006",
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4644757006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Belgrade, Belgrade, Serbia",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4645095006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -548,7 +538,7 @@
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 29",
-    "greenhouse:altium": "ok: 59",
+    "greenhouse:altium": "ok: 60",
     "greenhouse:ingenious": "ok: 8",
     "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 3",
@@ -562,7 +552,7 @@
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 38",
     "workable:tetrascience": "ok: 38",
-    "workable:systems-engineering-solutions-corporation": "ok: 30",
+    "workable:systems-engineering-solutions-corporation": "ok: 25",
     "workable:squaredev": "ok: 13",
     "workable:telestream": "ok: 5",
     "workable:prosync": "ok: 26",
