@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T17:52:37.591288Z",
-  "total": 52,
+  "generated_at": "2026-04-08T03:46:45.525552Z",
+  "total": 54,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -183,6 +183,16 @@
       "priority": 4
     },
     {
+      "title": "DevOps Engineer (FinOps)",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/E1BE865E6C",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "DevOps Engineer - Cloud & Edge Infrastructure",
       "company": null,
       "location": null,
@@ -228,6 +238,16 @@
       "location": null,
       "url": "https://apply.workable.com/j/C860536CA5",
       "source": "workable:telestream",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "FinOps Cloud Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/3391A79D24",
+      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -355,8 +375,8 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -365,8 +385,8 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -405,8 +425,8 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4624364006",
+      "location": "Cambridge, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4644757006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -425,8 +445,8 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4644757006",
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4644737006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -435,8 +455,8 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4644737006",
+      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4624364006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -527,8 +547,8 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 28",
-    "greenhouse:altium": "ok: 63",
+    "greenhouse:life360": "ok: 29",
+    "greenhouse:altium": "ok: 59",
     "greenhouse:ingenious": "ok: 8",
     "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 3",
@@ -540,12 +560,12 @@
     "lever:metabase": "ok: 16",
     "lever:remofirst": "ok: 20",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 37",
+    "lever:safetyculture-2": "ok: 38",
     "workable:tetrascience": "ok: 38",
-    "workable:systems-engineering-solutions-corporation": "ok: 29",
+    "workable:systems-engineering-solutions-corporation": "ok: 30",
     "workable:squaredev": "ok: 13",
     "workable:telestream": "ok: 5",
-    "workable:prosync": "ok: 25",
+    "workable:prosync": "ok: 26",
     "workable:total-ai-systems": "ok: 9",
     "workable:clear-labs": "ok: 4",
     "workable:reversinglabs": "ok: 12"
