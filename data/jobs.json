@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T03:42:05.342651Z",
-  "total": 54,
+  "generated_at": "2026-04-09T17:56:31.292547Z",
+  "total": 45,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -168,16 +168,6 @@
       "location": null,
       "url": "https://apply.workable.com/j/ED54675F67",
       "source": "workable:telestream",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/17B2F56501",
-      "source": "workable:total-ai-systems",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -375,89 +365,9 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4612131006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
       "location": null,
       "url": "https://apply.workable.com/j/244FC994E1",
       "source": "workable:reversinglabs",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior SRE Engineer",
-      "company": null,
-      "location": "Katowice, Silesian Voivodeship, Poland; Wrocław, Lower Silesian Voivodeship, Poland",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4624364006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior SRE Engineer",
-      "company": null,
-      "location": "Belgrade, Belgrade, Serbia",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4655027006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior SRE Engineer",
-      "company": null,
-      "location": "Belgrade, Belgrade, Serbia",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4645095006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior SRE Engineer",
-      "company": null,
-      "location": "Cambridge, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4644757006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior SRE Engineer",
-      "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4644737006",
-      "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -547,8 +457,8 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 30",
-    "greenhouse:altium": "ok: 60",
+    "greenhouse:life360": "ok: 20",
+    "greenhouse:altium": "ok: 32",
     "greenhouse:ingenious": "ok: 8",
     "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 3",
@@ -556,18 +466,18 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
-    "lever:scaleway": "ok: 40",
+    "lever:scaleway": "ok: 39",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 19",
+    "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 39",
-    "workable:tetrascience": "ok: 38",
-    "workable:systems-engineering-solutions-corporation": "ok: 27",
+    "workable:tetrascience": "ok: 39",
+    "workable:systems-engineering-solutions-corporation": "ok: 25",
     "workable:squaredev": "ok: 13",
     "workable:telestream": "ok: 6",
-    "workable:prosync": "ok: 29",
-    "workable:total-ai-systems": "ok: 9",
+    "workable:prosync": "ok: 30",
+    "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
-    "workable:reversinglabs": "ok: 12"
+    "workable:reversinglabs": "ok: 13"
   }
 }
