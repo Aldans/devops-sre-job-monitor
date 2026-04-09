@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T18:01:47.399534Z",
-  "total": 53,
+  "generated_at": "2026-04-09T03:42:05.342651Z",
+  "total": 54,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -253,6 +253,16 @@
       "priority": 4
     },
     {
+      "title": "Google Cloud Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/ADCD7A216B",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "IT SRE",
       "company": null,
       "location": "Paris",
@@ -365,16 +375,6 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
       "location": "Cambridge, England, United Kingdom",
       "url": "https://job-boards.greenhouse.io/altium/jobs/4618303006",
       "source": "greenhouse:altium",
@@ -395,19 +395,19 @@
     {
       "title": "Senior DevOps Engineer",
       "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/244FC994E1",
-      "source": "workable:reversinglabs",
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4618302006",
+      "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
       "priority": 4
     },
     {
-      "title": "Senior SRE Engineer",
+      "title": "Senior DevOps Engineer",
       "company": null,
-      "location": "Belgrade, Belgrade, Serbia",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4655027006",
-      "source": "greenhouse:altium",
+      "location": null,
+      "url": "https://apply.workable.com/j/244FC994E1",
+      "source": "workable:reversinglabs",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -425,8 +425,18 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Lisbon, Portugal Office",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4644737006",
+      "location": "Belgrade, Belgrade, Serbia",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4655027006",
+      "source": "greenhouse:altium",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior SRE Engineer",
+      "company": null,
+      "location": "Belgrade, Belgrade, Serbia",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4645095006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -445,8 +455,8 @@
     {
       "title": "Senior SRE Engineer",
       "company": null,
-      "location": "Belgrade, Belgrade, Serbia",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4645095006",
+      "location": "Lisbon, Portugal Office",
+      "url": "https://job-boards.greenhouse.io/altium/jobs/4644737006",
       "source": "greenhouse:altium",
       "description": "",
       "posted_at": null,
@@ -537,7 +547,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 29",
+    "greenhouse:life360": "ok: 30",
     "greenhouse:altium": "ok: 60",
     "greenhouse:ingenious": "ok: 8",
     "greenhouse:mthreerecruitingportal": "ok: 55",
@@ -548,14 +558,14 @@
     "lever:lucidworks": "ok: 7",
     "lever:scaleway": "ok: 40",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 20",
+    "lever:remofirst": "ok: 19",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 38",
+    "lever:safetyculture-2": "ok: 39",
     "workable:tetrascience": "ok: 38",
-    "workable:systems-engineering-solutions-corporation": "ok: 25",
+    "workable:systems-engineering-solutions-corporation": "ok: 27",
     "workable:squaredev": "ok: 13",
-    "workable:telestream": "ok: 5",
-    "workable:prosync": "ok: 26",
+    "workable:telestream": "ok: 6",
+    "workable:prosync": "ok: 29",
     "workable:total-ai-systems": "ok: 9",
     "workable:clear-labs": "ok: 4",
     "workable:reversinglabs": "ok: 12"
