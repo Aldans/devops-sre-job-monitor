@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T17:42:54.753474Z",
-  "total": 42,
+  "generated_at": "2026-04-11T03:31:57.769519Z",
+  "total": 44,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -78,6 +78,16 @@
       "location": "Global Remote",
       "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee",
       "source": "lever:metabase",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": null,
+      "location": "United States (Remote)",
+      "url": "https://jobs.lever.co/regrello/e4222908-c38b-4c4c-9067-9f66d94c0be2",
+      "source": "lever:regrello",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -363,6 +373,16 @@
       "priority": 4
     },
     {
+      "title": "Senior Site Reliability Engineer: (Mexico - Monterrey)",
+      "company": null,
+      "location": "Monterrey",
+      "url": "https://jobs.lever.co/regrello/b59962e0-e244-4f03-9073-dfc4c362055f",
+      "source": "lever:regrello",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Senior Software Platform Engineer",
       "company": null,
       "location": null,
@@ -433,16 +453,16 @@
     "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 26",
-    "lever:regrello": "ok: 0",
+    "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
     "lever:scaleway": "ok: 39",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 21",
+    "lever:remofirst": "ok: 22",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 40",
     "workable:tetrascience": "ok: 39",
-    "workable:systems-engineering-solutions-corporation": "ok: 25",
+    "workable:systems-engineering-solutions-corporation": "ok: 24",
     "workable:squaredev": "ok: 13",
     "workable:telestream": "ok: 6",
     "workable:prosync": "ok: 30",
