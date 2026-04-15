@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T03:55:35.503721Z",
+  "generated_at": "2026-04-15T18:01:18.032962Z",
   "total": 47,
   "jobs": [
     {
@@ -91,16 +91,6 @@
       "description": "",
       "posted_at": null,
       "priority": 1
-    },
-    {
-      "title": " DevOps Engineer",
-      "company": null,
-      "location": "Los Angeles, California, United States",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4659413006",
-      "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 2
     },
     {
       "title": "Junior Production Support/SRE Analyst ",
@@ -403,6 +393,16 @@
       "priority": 4
     },
     {
+      "title": "Site Reliability Engineer (SRE) - Compute",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/9fef1198-5580-4a34-86ad-605170021da6",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Site Reliability Engineer (SRE) - Network Products",
       "company": null,
       "location": "Paris",
@@ -478,7 +478,7 @@
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 17",
-    "greenhouse:altium": "ok: 15",
+    "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 8",
     "greenhouse:mthreerecruitingportal": "ok: 54",
     "greenhouse:tenet3": "ok: 3",
@@ -486,12 +486,12 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
-    "lever:scaleway": "ok: 43",
+    "lever:scaleway": "ok: 42",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 21",
+    "lever:remofirst": "ok: 18",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 36",
-    "workable:tetrascience": "ok: 38",
+    "lever:safetyculture-2": "ok: 37",
+    "workable:tetrascience": "ok: 42",
     "workable:systems-engineering-solutions-corporation": "ok: 26",
     "workable:squaredev": "ok: 13",
     "workable:telestream": "ok: 6",
