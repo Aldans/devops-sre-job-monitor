@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T18:01:18.032962Z",
-  "total": 47,
+  "generated_at": "2026-04-16T04:10:48.480669Z",
+  "total": 44,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -146,16 +146,6 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": null,
-      "url": "https://apply.workable.com/j/E0F1F3EEF9",
-      "source": "workable:tetrascience",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": null,
       "url": "https://apply.workable.com/j/5E8674A381",
       "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
@@ -273,16 +263,6 @@
       "priority": 4
     },
     {
-      "title": "Lead Platform Engineer - Search Platform",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/00D96E7292",
-      "source": "workable:tetrascience",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Principal SRE",
       "company": null,
       "location": "Paris",
@@ -383,16 +363,6 @@
       "priority": 4
     },
     {
-      "title": "Senior Software Platform Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/444086D7AE",
-      "source": "workable:tetrascience",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Site Reliability Engineer (SRE) - Compute",
       "company": null,
       "location": "Paris",
@@ -480,7 +450,7 @@
     "greenhouse:life360": "ok: 17",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 8",
-    "greenhouse:mthreerecruitingportal": "ok: 54",
+    "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 14",
@@ -490,12 +460,12 @@
     "lever:metabase": "ok: 16",
     "lever:remofirst": "ok: 18",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 37",
-    "workable:tetrascience": "ok: 42",
-    "workable:systems-engineering-solutions-corporation": "ok: 26",
+    "lever:safetyculture-2": "ok: 33",
+    "workable:tetrascience": "ok: 38",
+    "workable:systems-engineering-solutions-corporation": "ok: 25",
     "workable:squaredev": "ok: 13",
-    "workable:telestream": "ok: 6",
-    "workable:prosync": "ok: 43",
+    "workable:telestream": "ok: 7",
+    "workable:prosync": "ok: 42",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
     "workable:reversinglabs": "ok: 12"
