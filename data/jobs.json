@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T03:59:54.869206Z",
+  "generated_at": "2026-04-17T17:42:25.750924Z",
   "total": 43,
   "jobs": [
     {
@@ -8,6 +8,16 @@
       "location": "Poland - Remote",
       "url": "https://job-boards.greenhouse.io/ingenious/jobs/4674007005",
       "source": "greenhouse:ingenious",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "Remote",
+      "url": "https://jobs.lever.co/quokka/f9ec8f4e-e18f-436a-9da2-875739db2c3e",
+      "source": "lever:quokka",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -158,16 +168,6 @@
       "location": null,
       "url": "https://apply.workable.com/j/E1BE865E6C",
       "source": "workable:systems-engineering-solutions-corporation",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer - Cloud & Edge Infrastructure",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/84DE545F4F",
-      "source": "workable:clear-labs",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -444,20 +444,20 @@
     "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 24",
     "lever:regrello": "ok: 14",
-    "lever:quokka": "ok: 0",
+    "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
     "lever:scaleway": "ok: 43",
     "lever:metabase": "ok: 16",
     "lever:remofirst": "ok: 18",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 34",
-    "workable:tetrascience": "ok: 31",
+    "workable:tetrascience": "ok: 25",
     "workable:systems-engineering-solutions-corporation": "ok: 23",
     "workable:squaredev": "ok: 13",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 42",
     "workable:total-ai-systems": "ok: 0",
-    "workable:clear-labs": "ok: 4",
+    "workable:clear-labs": "ok: 3",
     "workable:reversinglabs": "ok: 13"
   }
 }
