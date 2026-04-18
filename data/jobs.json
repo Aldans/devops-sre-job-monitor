@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T03:43:44.736117Z",
-  "total": 43,
+  "generated_at": "2026-04-18T17:31:40.556708Z",
+  "total": 42,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -28,16 +28,6 @@
       "location": "Remote - India",
       "url": "https://jobs.lever.co/lucidworks/34b93954-d022-41f9-804a-94cf9b920ca2",
       "source": "lever:lucidworks",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Devops Engineer",
-      "company": null,
-      "location": "Remote",
-      "url": "https://jobs.lever.co/brightedge/f0f18ff1-bf64-4a24-8521-1030cd05adcd",
-      "source": "lever:brightedge",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -442,7 +432,7 @@
     "greenhouse:ingenious": "ok: 7",
     "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 3",
-    "lever:brightedge": "ok: 24",
+    "lever:brightedge": "ok: 0",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
