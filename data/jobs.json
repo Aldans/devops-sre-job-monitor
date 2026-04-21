@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T03:59:17.494684Z",
-  "total": 43,
+  "generated_at": "2026-04-21T17:54:13.437839Z",
+  "total": 42,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -158,16 +158,6 @@
       "location": null,
       "url": "https://apply.workable.com/j/ED54675F67",
       "source": "workable:telestream",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer (FinOps)",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/E1BE865E6C",
-      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -446,16 +436,16 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
-    "lever:scaleway": "ok: 43",
+    "lever:scaleway": "ok: 45",
     "lever:metabase": "ok: 15",
     "lever:remofirst": "ok: 18",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 33",
     "workable:tetrascience": "ok: 27",
-    "workable:systems-engineering-solutions-corporation": "ok: 24",
-    "workable:squaredev": "ok: 19",
+    "workable:systems-engineering-solutions-corporation": "ok: 17",
+    "workable:squaredev": "ok: 20",
     "workable:telestream": "ok: 6",
-    "workable:prosync": "ok: 42",
+    "workable:prosync": "ok: 31",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
     "workable:reversinglabs": "ok: 14"
