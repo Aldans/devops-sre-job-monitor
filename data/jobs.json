@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T18:03:05.131208Z",
-  "total": 42,
+  "generated_at": "2026-04-24T04:13:32.982017Z",
+  "total": 41,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -183,16 +183,6 @@
       "priority": 4
     },
     {
-      "title": "Director Platform Engineering & Cloud Infrastructure",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/C860536CA5",
-      "source": "workable:telestream",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "FinOps Cloud Engineer",
       "company": null,
       "location": null,
@@ -275,8 +265,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Houston, TX",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -285,8 +275,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -305,8 +295,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -430,7 +420,7 @@
     "greenhouse:life360": "ok: 22",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 7",
-    "greenhouse:mthreerecruitingportal": "ok: 53",
+    "greenhouse:mthreerecruitingportal": "ok: 52",
     "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 23",
     "lever:regrello": "ok: 14",
@@ -440,14 +430,14 @@
     "lever:metabase": "ok: 16",
     "lever:remofirst": "ok: 18",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 33",
+    "lever:safetyculture-2": "ok: 31",
     "workable:tetrascience": "ok: 34",
-    "workable:systems-engineering-solutions-corporation": "ok: 19",
+    "workable:systems-engineering-solutions-corporation": "ok: 22",
     "workable:squaredev": "ok: 24",
-    "workable:telestream": "ok: 6",
+    "workable:telestream": "ok: 5",
     "workable:prosync": "ok: 33",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
-    "workable:reversinglabs": "ok: 12"
+    "workable:reversinglabs": "ok: 14"
   }
 }
