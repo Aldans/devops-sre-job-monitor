@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T04:23:51.561817Z",
-  "total": 40,
+  "generated_at": "2026-04-29T18:08:37.875646Z",
+  "total": 38,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -103,16 +103,6 @@
       "priority": 3
     },
     {
-      "title": "Cloud Infrastructure Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/25C6B3C979",
-      "source": "workable:systems-engineering-solutions-corporation",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "DevOps - Symfony Bare Metal Linux",
       "company": null,
       "location": "Paris",
@@ -178,16 +168,6 @@
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4605796006",
       "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Google Cloud Platform Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/ADCD7A216B",
-      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -416,16 +396,16 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 7",
-    "lever:scaleway": "ok: 46",
-    "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 16",
+    "lever:scaleway": "ok: 45",
+    "lever:metabase": "ok: 15",
+    "lever:remofirst": "ok: 14",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 29",
+    "lever:safetyculture-2": "ok: 35",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 16",
-    "workable:squaredev": "ok: 26",
+    "workable:systems-engineering-solutions-corporation": "ok: 12",
+    "workable:squaredev": "ok: 28",
     "workable:telestream": "ok: 5",
-    "workable:prosync": "ok: 34",
+    "workable:prosync": "ok: 39",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
     "workable:reversinglabs": "ok: 13"
