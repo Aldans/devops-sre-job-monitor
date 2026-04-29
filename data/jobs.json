@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T18:13:52.210178Z",
-  "total": 41,
+  "generated_at": "2026-04-29T04:23:51.561817Z",
+  "total": 40,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -178,16 +178,6 @@
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4605796006",
       "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "FinOps Cloud Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/3391A79D24",
-      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -417,7 +407,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 24",
+    "greenhouse:life360": "ok: 23",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 7",
     "greenhouse:mthreerecruitingportal": "ok: 51",
@@ -432,10 +422,10 @@
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 29",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 21",
+    "workable:systems-engineering-solutions-corporation": "ok: 16",
     "workable:squaredev": "ok: 26",
     "workable:telestream": "ok: 5",
-    "workable:prosync": "ok: 33",
+    "workable:prosync": "ok: 34",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
     "workable:reversinglabs": "ok: 13"
