@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:06:08.533019Z",
-  "total": 39,
+  "generated_at": "2026-05-01T04:42:28.110519Z",
+  "total": 38,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -118,16 +118,6 @@
       "location": "Shanghai, Shanghai, China",
       "url": "https://job-boards.greenhouse.io/altium/jobs/4449284006",
       "source": "greenhouse:altium",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/5E8674A381",
-      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -414,7 +404,7 @@
     "workable:tetrascience": "ok: 35",
     "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 28",
-    "workable:telestream": "ok: 5",
+    "workable:telestream": "ok: 8",
     "workable:prosync": "ok: 44",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
