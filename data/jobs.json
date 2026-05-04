@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T04:35:05.176267Z",
-  "total": 38,
+  "generated_at": "2026-05-04T18:10:16.470618Z",
+  "total": 37,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -18,16 +18,6 @@
       "location": "Remote",
       "url": "https://jobs.lever.co/quokka/f9ec8f4e-e18f-436a-9da2-875739db2c3e",
       "source": "lever:quokka",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": "Remote - India",
-      "url": "https://jobs.lever.co/lucidworks/34b93954-d022-41f9-804a-94cf9b920ca2",
-      "source": "lever:lucidworks",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -392,17 +382,17 @@
     "greenhouse:ingenious": "ok: 7",
     "greenhouse:mthreerecruitingportal": "ok: 49",
     "greenhouse:tenet3": "ok: 3",
-    "lever:brightedge": "ok: 24",
+    "lever:brightedge": "ok: 25",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
-    "lever:lucidworks": "ok: 7",
-    "lever:scaleway": "ok: 45",
+    "lever:lucidworks": "ok: 6",
+    "lever:scaleway": "ok: 44",
     "lever:metabase": "ok: 15",
-    "lever:remofirst": "ok: 14",
+    "lever:remofirst": "ok: 13",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 33",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 14",
+    "workable:systems-engineering-solutions-corporation": "ok: 8",
     "workable:squaredev": "ok: 28",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 52",
