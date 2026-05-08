@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T18:18:14.913697Z",
-  "total": 36,
+  "generated_at": "2026-05-08T04:11:57.392916Z",
+  "total": 35,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -116,16 +116,6 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": null,
-      "url": "https://apply.workable.com/j/EE6153040E",
-      "source": "workable:systems-engineering-solutions-corporation",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": null,
       "url": "https://apply.workable.com/j/ED54675F67",
       "source": "workable:telestream",
       "description": "",
@@ -206,6 +196,16 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
@@ -247,16 +247,6 @@
       "company": null,
       "location": "Salt Lake City, Utah, United States",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -370,7 +360,7 @@
     "greenhouse:life360": "ok: 25",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 6",
-    "greenhouse:mthreerecruitingportal": "ok: 47",
+    "greenhouse:mthreerecruitingportal": "ok: 46",
     "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 14",
@@ -382,12 +372,12 @@
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 37",
     "workable:tetrascience": "ok: 39",
-    "workable:systems-engineering-solutions-corporation": "ok: 7",
+    "workable:systems-engineering-solutions-corporation": "ok: 5",
     "workable:squaredev": "ok: 21",
     "workable:telestream": "ok: 8",
     "workable:prosync": "ok: 52",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 5",
-    "workable:reversinglabs": "ok: 14"
+    "workable:reversinglabs": "ok: 15"
   }
 }
