@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T17:42:35.458981Z",
+  "generated_at": "2026-05-10T04:38:44.735689Z",
   "total": 35,
   "jobs": [
     {
@@ -372,7 +372,7 @@
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 37",
     "workable:tetrascience": "ok: 39",
-    "workable:systems-engineering-solutions-corporation": "ok: 5",
+    "workable:systems-engineering-solutions-corporation": "ok: 4",
     "workable:squaredev": "ok: 22",
     "workable:telestream": "ok: 8",
     "workable:prosync": "ok: 52",
