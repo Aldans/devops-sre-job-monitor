@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:53:52.287449Z",
-  "total": 35,
+  "generated_at": "2026-05-11T18:51:50.163903Z",
+  "total": 36,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -351,13 +351,23 @@
       "description": "",
       "posted_at": null,
       "priority": 4
+    },
+    {
+      "title": "Technology Lead, DevOps Engineering",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/8573142D3F",
+      "source": "workable:tetrascience",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
     }
   ],
   "sources_status": {
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 26",
+    "greenhouse:life360": "ok: 29",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 46",
@@ -366,14 +376,14 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 6",
-    "lever:scaleway": "ok: 46",
+    "lever:scaleway": "ok: 45",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 16",
+    "lever:remofirst": "ok: 14",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 36",
-    "workable:tetrascience": "ok: 39",
-    "workable:systems-engineering-solutions-corporation": "ok: 4",
-    "workable:squaredev": "ok: 22",
+    "workable:tetrascience": "ok: 40",
+    "workable:systems-engineering-solutions-corporation": "ok: 8",
+    "workable:squaredev": "ok: 24",
     "workable:telestream": "ok: 8",
     "workable:prosync": "ok: 52",
     "workable:total-ai-systems": "ok: 0",
