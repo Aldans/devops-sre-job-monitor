@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T18:52:58.934403Z",
-  "total": 37,
+  "generated_at": "2026-05-14T04:35:57.865917Z",
+  "total": 36,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -158,16 +158,6 @@
       "location": null,
       "url": "https://apply.workable.com/j/107E426590",
       "source": "workable:telestream",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevSecOps Engineer - Infrastructure",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/94DB5D0DFE",
-      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -377,7 +367,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 33",
+    "greenhouse:life360": "ok: 35",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 46",
@@ -388,11 +378,11 @@
     "lever:lucidworks": "ok: 6",
     "lever:scaleway": "ok: 44",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 13",
+    "lever:remofirst": "ok: 14",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 34",
     "workable:tetrascience": "ok: 45",
-    "workable:systems-engineering-solutions-corporation": "ok: 14",
+    "workable:systems-engineering-solutions-corporation": "ok: 9",
     "workable:squaredev": "ok: 25",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 52",
