@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T04:35:57.865917Z",
-  "total": 36,
+  "generated_at": "2026-05-14T18:30:20.289658Z",
+  "total": 34,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -38,26 +38,6 @@
       "location": "Remote",
       "url": "https://jobs.lever.co/verifiable/d73c43ff-6803-4b5e-972f-0f7afd923f21",
       "source": "lever:verifiable",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "Remote - Mexico City",
-      "url": "https://jobs.lever.co/lucidworks/09f2f2cd-81e1-41f9-9774-d5dfa2e0e4ed",
-      "source": "lever:lucidworks",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "Remote - US",
-      "url": "https://jobs.lever.co/lucidworks/915589d5-0546-4329-b22b-d6656b3d35dc",
-      "source": "lever:lucidworks",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -375,13 +355,13 @@
     "lever:brightedge": "ok: 25",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
-    "lever:lucidworks": "ok: 6",
+    "lever:lucidworks": "ok: 1",
     "lever:scaleway": "ok: 44",
     "lever:metabase": "ok: 16",
     "lever:remofirst": "ok: 14",
     "lever:verifiable": "ok: 7",
     "lever:safetyculture-2": "ok: 34",
-    "workable:tetrascience": "ok: 45",
+    "workable:tetrascience": "ok: 47",
     "workable:systems-engineering-solutions-corporation": "ok: 9",
     "workable:squaredev": "ok: 25",
     "workable:telestream": "ok: 7",
