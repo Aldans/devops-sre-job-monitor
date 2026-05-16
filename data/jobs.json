@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T18:17:30.494300Z",
+  "generated_at": "2026-05-16T04:23:16.507886Z",
   "total": 36,
   "jobs": [
     {
@@ -367,7 +367,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 35",
+    "greenhouse:life360": "ok: 36",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 48",
@@ -388,6 +388,6 @@
     "workable:prosync": "ok: 52",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
-    "workable:reversinglabs": "ok: 16"
+    "workable:reversinglabs": "ok: 17"
   }
 }
