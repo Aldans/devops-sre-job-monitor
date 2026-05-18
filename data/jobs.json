@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T05:00:50.050614Z",
+  "generated_at": "2026-05-18T18:27:29.729046Z",
   "total": 36,
   "jobs": [
     {
@@ -376,12 +376,12 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 46",
+    "lever:scaleway": "ok: 47",
     "lever:metabase": "ok: 16",
-    "lever:remofirst": "ok: 14",
+    "lever:remofirst": "ok: 15",
     "lever:verifiable": "ok: 7",
-    "lever:safetyculture-2": "ok: 31",
-    "workable:tetrascience": "ok: 47",
+    "lever:safetyculture-2": "ok: 29",
+    "workable:tetrascience": "ok: 46",
     "workable:systems-engineering-solutions-corporation": "ok: 8",
     "workable:squaredev": "ok: 25",
     "workable:telestream": "ok: 7",
