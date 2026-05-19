@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T04:52:53.084959Z",
-  "total": 36,
+  "generated_at": "2026-05-19T18:54:53.146094Z",
+  "total": 34,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -283,16 +283,6 @@
       "priority": 4
     },
     {
-      "title": "Site Reliability Engineer (SRE) - Network Products",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/bfcb228c-ed27-42b0-a799-d6bf0b93acd8",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Site Reliability Engineer (SRE) - Storage",
       "company": null,
       "location": "Paris",
@@ -351,43 +341,33 @@
       "description": "",
       "posted_at": null,
       "priority": 4
-    },
-    {
-      "title": "Technology Lead, DevOps Engineering",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/8573142D3F",
-      "source": "workable:tetrascience",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
     }
   ],
   "sources_status": {
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 35",
+    "greenhouse:life360": "ok: 36",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 48",
     "greenhouse:tenet3": "ok: 3",
-    "lever:brightedge": "ok: 25",
+    "lever:brightedge": "ok: 24",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
     "lever:scaleway": "ok: 47",
     "lever:metabase": "ok: 16",
     "lever:remofirst": "ok: 15",
-    "lever:verifiable": "ok: 7",
+    "lever:verifiable": "ok: 8",
     "lever:safetyculture-2": "ok: 30",
-    "workable:tetrascience": "ok: 46",
+    "workable:tetrascience": "ok: 44",
     "workable:systems-engineering-solutions-corporation": "ok: 8",
     "workable:squaredev": "ok: 25",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 52",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
-    "workable:reversinglabs": "ok: 17"
+    "workable:reversinglabs": "ok: 18"
   }
 }
