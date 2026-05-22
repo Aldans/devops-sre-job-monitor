@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:54:48.176173Z",
-  "total": 33,
+  "generated_at": "2026-05-22T18:30:05.554241Z",
+  "total": 31,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -263,30 +263,10 @@
       "priority": 4
     },
     {
-      "title": "Site Reliability Engineer (SRE) - Compute",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/9fef1198-5580-4a34-86ad-605170021da6",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Site Reliability Engineer (SRE) - Storage",
       "company": null,
       "location": "Paris",
       "url": "https://jobs.lever.co/scaleway/51b6ebec-ef4d-4819-a233-308f223f72f9",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Site Reliability Engineer - AI",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/516a198f-9e96-497b-9abc-ec878fa32f0d",
       "source": "lever:scaleway",
       "description": "",
       "posted_at": null,
@@ -337,7 +317,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 36",
+    "greenhouse:life360": "ok: 37",
     "greenhouse:altium": "ok: 7",
     "greenhouse:ingenious": "ok: 8",
     "greenhouse:mthreerecruitingportal": "ok: 48",
@@ -346,18 +326,18 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 43",
+    "lever:scaleway": "ok: 40",
     "lever:metabase": "ok: 15",
     "lever:remofirst": "ok: 16",
     "lever:verifiable": "ok: 6",
-    "lever:safetyculture-2": "ok: 30",
+    "lever:safetyculture-2": "ok: 29",
     "workable:tetrascience": "ok: 45",
     "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 25",
-    "workable:telestream": "ok: 6",
-    "workable:prosync": "ok: 52",
+    "workable:telestream": "ok: 7",
+    "workable:prosync": "ok: 53",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
-    "workable:reversinglabs": "ok: 18"
+    "workable:reversinglabs": "ok: 17"
   }
 }
