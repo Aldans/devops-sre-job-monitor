@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T05:13:30.458048Z",
-  "total": 31,
+  "generated_at": "2026-05-25T18:22:16.039054Z",
+  "total": 30,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -263,16 +263,6 @@
       "priority": 4
     },
     {
-      "title": "Site Reliability Engineer (SRE) - Storage",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/51b6ebec-ef4d-4819-a233-308f223f72f9",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Site Reliability Engineer - SRE",
       "company": null,
       "location": "Paris",
@@ -326,14 +316,14 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 41",
+    "lever:scaleway": "ok: 40",
     "lever:metabase": "ok: 15",
     "lever:remofirst": "ok: 16",
     "lever:verifiable": "ok: 6",
     "lever:safetyculture-2": "ok: 28",
     "workable:tetrascience": "ok: 45",
     "workable:systems-engineering-solutions-corporation": "ok: 10",
-    "workable:squaredev": "ok: 25",
+    "workable:squaredev": "ok: 11",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 53",
     "workable:total-ai-systems": "ok: 0",
