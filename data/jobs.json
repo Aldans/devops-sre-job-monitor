@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T05:31:25.831468Z",
-  "total": 33,
+  "generated_at": "2026-06-04T19:14:31.886444Z",
+  "total": 35,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -113,11 +113,11 @@
       "priority": 3
     },
     {
-      "title": "DevOps Engineer",
+      "title": "Backend Software Engineer (Python / DevOps)",
       "company": null,
-      "location": "Shanghai, Shanghai, China",
-      "url": "https://job-boards.greenhouse.io/altium/jobs/4449284006",
-      "source": "greenhouse:altium",
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/ad74cfd6-edb5-4ea7-a998-52cf8945112b",
+      "source": "lever:scaleway",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -158,6 +158,16 @@
       "location": "Athina, Attica, Greece",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4565571006",
       "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/d8af9e1e-6250-48e8-97db-5e4e79d7cf20",
+      "source": "lever:scaleway",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -303,6 +313,16 @@
       "priority": 4
     },
     {
+      "title": "Software Engineer - Kubernetes Specialist",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/cbfc06ed-28cc-4248-9ef6-d5b2e0bb7a0d",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Software Engineer II (DevOps)",
       "company": null,
       "location": null,
@@ -338,22 +358,22 @@
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 40",
-    "greenhouse:altium": "ok: 7",
+    "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 7",
     "greenhouse:mthreerecruitingportal": "ok: 58",
     "greenhouse:tenet3": "ok: 0",
-    "lever:brightedge": "ok: 25",
+    "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 38",
+    "lever:scaleway": "ok: 40",
     "lever:metabase": "ok: 15",
-    "lever:remofirst": "ok: 20",
+    "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 5",
     "lever:safetyculture-2": "ok: 37",
     "workable:tetrascience": "ok: 41",
-    "workable:systems-engineering-solutions-corporation": "ok: 7",
-    "workable:squaredev": "ok: 10",
+    "workable:systems-engineering-solutions-corporation": "ok: 6",
+    "workable:squaredev": "ok: 9",
     "workable:telestream": "ok: 5",
     "workable:prosync": "ok: 54",
     "workable:total-ai-systems": "ok: 0",
