@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T05:07:49.564202Z",
+  "generated_at": "2026-06-05T18:55:08.192940Z",
   "total": 35,
   "jobs": [
     {
@@ -143,21 +143,21 @@
       "priority": 4
     },
     {
-      "title": "DevOps Engineer/ Production Support Analyst",
+      "title": "Junior SRE/DevOps Engineer",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4656487006",
+      "location": "Athina, Attica, Greece",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4565571006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
       "priority": 4
     },
     {
-      "title": "Junior SRE/DevOps Engineer",
+      "title": "Lead Software Platform Engineer",
       "company": null,
-      "location": "Athina, Attica, Greece",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4565571006",
-      "source": "greenhouse:mthreerecruitingportal",
+      "location": null,
+      "url": "https://apply.workable.com/j/2E992EDA52",
+      "source": "workable:tetrascience",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -195,8 +195,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -205,8 +205,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Houston, TX",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -236,7 +236,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -357,27 +357,27 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 42",
+    "greenhouse:life360": "ok: 41",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 7",
-    "greenhouse:mthreerecruitingportal": "ok: 58",
+    "greenhouse:mthreerecruitingportal": "ok: 57",
     "greenhouse:tenet3": "ok: 0",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 40",
+    "lever:scaleway": "ok: 39",
     "lever:metabase": "ok: 15",
-    "lever:remofirst": "ok: 21",
+    "lever:remofirst": "ok: 22",
     "lever:verifiable": "ok: 5",
     "lever:safetyculture-2": "ok: 38",
-    "workable:tetrascience": "ok: 42",
+    "workable:tetrascience": "ok: 44",
     "workable:systems-engineering-solutions-corporation": "ok: 7",
-    "workable:squaredev": "ok: 9",
+    "workable:squaredev": "ok: 7",
     "workable:telestream": "ok: 5",
     "workable:prosync": "ok: 53",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
-    "workable:reversinglabs": "ok: 17"
+    "workable:reversinglabs": "ok: 18"
   }
 }
