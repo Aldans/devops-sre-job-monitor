@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T05:18:52.604962Z",
-  "total": 36,
+  "generated_at": "2026-06-11T19:28:57.007830Z",
+  "total": 37,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -121,6 +121,16 @@
       "description": "",
       "posted_at": null,
       "priority": 3
+    },
+    {
+      "title": "Backend Software Engineer (Python / DevOps)",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/ad74cfd6-edb5-4ea7-a998-52cf8945112b",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
     },
     {
       "title": "DevOps Engineer",
@@ -367,7 +377,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 50",
+    "greenhouse:life360": "ok: 49",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 60",
@@ -376,18 +386,18 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 37",
+    "lever:scaleway": "ok: 39",
     "lever:metabase": "ok: 18",
-    "lever:remofirst": "ok: 23",
+    "lever:remofirst": "ok: 22",
     "lever:verifiable": "ok: 5",
-    "lever:safetyculture-2": "ok: 36",
+    "lever:safetyculture-2": "ok: 33",
     "workable:tetrascience": "ok: 40",
-    "workable:systems-engineering-solutions-corporation": "ok: 6",
+    "workable:systems-engineering-solutions-corporation": "ok: 8",
     "workable:squaredev": "ok: 7",
     "workable:telestream": "ok: 8",
     "workable:prosync": "ok: 54",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 4",
-    "workable:reversinglabs": "ok: 18"
+    "workable:reversinglabs": "ok: 16"
   }
 }
