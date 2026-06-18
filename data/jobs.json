@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T05:26:57.098216Z",
-  "total": 39,
+  "generated_at": "2026-06-18T19:19:05.448690Z",
+  "total": 40,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -323,6 +323,16 @@
       "priority": 4
     },
     {
+      "title": "Site Reliability Engineer (SRE) - Network Products",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/bfcb228c-ed27-42b0-a799-d6bf0b93acd8",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Site Reliability Engineer - SRE",
       "company": null,
       "location": "Paris",
@@ -397,27 +407,27 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 54",
+    "greenhouse:life360": "ok: 53",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 61",
     "greenhouse:tenet3": "ok: 0",
-    "lever:brightedge": "ok: 27",
+    "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 41",
+    "lever:scaleway": "ok: 42",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 5",
-    "lever:safetyculture-2": "ok: 31",
+    "lever:safetyculture-2": "ok: 32",
     "workable:tetrascience": "ok: 40",
     "workable:systems-engineering-solutions-corporation": "ok: 7",
-    "workable:squaredev": "ok: 9",
+    "workable:squaredev": "ok: 10",
     "workable:telestream": "ok: 8",
     "workable:prosync": "ok: 58",
     "workable:total-ai-systems": "ok: 0",
-    "workable:clear-labs": "ok: 4",
+    "workable:clear-labs": "ok: 3",
     "workable:reversinglabs": "ok: 16"
   }
 }
