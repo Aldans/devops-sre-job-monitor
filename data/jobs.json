@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T04:53:09.487034Z",
-  "total": 39,
+  "generated_at": "2026-06-23T19:04:29.892498Z",
+  "total": 38,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -213,16 +213,6 @@
       "priority": 4
     },
     {
-      "title": "Product Manager Kubernetes",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/9de83e6f-30af-418c-8e6a-fcd1bc76759c",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "Houston, TX",
@@ -397,7 +387,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 54",
+    "greenhouse:life360": "ok: 53",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 6",
     "greenhouse:mthreerecruitingportal": "ok: 61",
@@ -406,11 +396,11 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 41",
+    "lever:scaleway": "ok: 39",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 6",
-    "lever:safetyculture-2": "ok: 39",
+    "lever:safetyculture-2": "ok: 36",
     "workable:tetrascience": "ok: 42",
     "workable:systems-engineering-solutions-corporation": "ok: 7",
     "workable:squaredev": "ok: 13",
@@ -418,6 +408,6 @@
     "workable:prosync": "ok: 58",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
-    "workable:reversinglabs": "ok: 16"
+    "workable:reversinglabs": "ok: 17"
   }
 }
