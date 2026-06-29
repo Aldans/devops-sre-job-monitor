@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T05:21:26.214263Z",
-  "total": 36,
+  "generated_at": "2026-06-29T18:59:14.024298Z",
+  "total": 35,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -75,16 +75,6 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -96,7 +86,7 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -107,6 +97,16 @@
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -205,8 +205,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Houston, TX",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -225,8 +225,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -268,16 +268,6 @@
       "location": "Monterrey",
       "url": "https://jobs.lever.co/regrello/b59962e0-e244-4f03-9073-dfc4c362055f",
       "source": "lever:regrello",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior Software Platform Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/444086D7AE",
-      "source": "workable:tetrascience",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -378,12 +368,12 @@
     "lever:lucidworks": "ok: 1",
     "lever:scaleway": "ok: 38",
     "lever:metabase": "ok: 18",
-    "lever:remofirst": "ok: 20",
+    "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 6",
     "lever:safetyculture-2": "ok: 36",
     "workable:tetrascience": "ok: 44",
     "workable:systems-engineering-solutions-corporation": "ok: 17",
-    "workable:squaredev": "ok: 13",
+    "workable:squaredev": "ok: 10",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 61",
     "workable:total-ai-systems": "ok: 0",
