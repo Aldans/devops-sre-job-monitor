@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T17:59:09.705150Z",
-  "total": 37,
+  "generated_at": "2026-06-29T05:21:26.214263Z",
+  "total": 36,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -75,16 +75,6 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -96,7 +86,7 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -107,6 +97,16 @@
       "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -138,16 +138,6 @@
       "location": "Paris",
       "url": "https://jobs.lever.co/scaleway/ad74cfd6-edb5-4ea7-a998-52cf8945112b",
       "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/ED54675F67",
-      "source": "workable:telestream",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -215,8 +205,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -235,8 +225,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Houston, TX",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -390,11 +380,11 @@
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 20",
     "lever:verifiable": "ok: 6",
-    "lever:safetyculture-2": "ok: 38",
+    "lever:safetyculture-2": "ok: 36",
     "workable:tetrascience": "ok: 44",
     "workable:systems-engineering-solutions-corporation": "ok: 17",
     "workable:squaredev": "ok: 13",
-    "workable:telestream": "ok: 8",
+    "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 61",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
