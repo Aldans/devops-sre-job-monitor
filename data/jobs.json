@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T04:33:45.526862Z",
+  "generated_at": "2026-07-03T18:08:12.959493Z",
   "total": 35,
   "jobs": [
     {
@@ -366,7 +366,7 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 35",
+    "lever:scaleway": "ok: 37",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 6",
@@ -378,6 +378,6 @@
     "workable:prosync": "ok: 60",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
-    "workable:reversinglabs": "ok: 10"
+    "workable:reversinglabs": "ok: 11"
   }
 }
