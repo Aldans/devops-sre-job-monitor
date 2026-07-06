@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T05:01:45.930159Z",
+  "generated_at": "2026-07-06T18:50:39.776572Z",
   "total": 35,
   "jobs": [
     {
@@ -183,16 +183,6 @@
       "priority": 4
     },
     {
-      "title": "Principal SRE",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/ebd333f9-de85-444d-84a4-58c44f26720f",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "Houston, TX",
@@ -268,6 +258,16 @@
       "location": "Monterrey",
       "url": "https://jobs.lever.co/regrello/b59962e0-e244-4f03-9073-dfc4c362055f",
       "source": "lever:regrello",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior Software Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/444086D7AE",
+      "source": "workable:tetrascience",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -366,14 +366,14 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 37",
+    "lever:scaleway": "ok: 36",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 21",
     "lever:verifiable": "ok: 6",
-    "lever:safetyculture-2": "ok: 36",
-    "workable:tetrascience": "ok: 39",
+    "lever:safetyculture-2": "ok: 35",
+    "workable:tetrascience": "ok: 37",
     "workable:systems-engineering-solutions-corporation": "ok: 10",
-    "workable:squaredev": "ok: 11",
+    "workable:squaredev": "ok: 20",
     "workable:telestream": "ok: 7",
     "workable:prosync": "ok: 60",
     "workable:total-ai-systems": "ok: 0",
