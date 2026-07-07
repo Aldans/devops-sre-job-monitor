@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T04:40:51.641973Z",
-  "total": 35,
+  "generated_at": "2026-07-07T18:56:01.468755Z",
+  "total": 36,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -76,16 +76,6 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
@@ -97,6 +87,16 @@
       "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -153,6 +153,16 @@
       "priority": 4
     },
     {
+      "title": "Google Cloud Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/BFEEC42514",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Junior SRE/DevOps Engineer",
       "company": null,
       "location": "Athina, Attica, Greece",
@@ -196,7 +206,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -206,7 +216,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -226,7 +236,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -357,10 +367,10 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 49",
+    "greenhouse:life360": "ok: 48",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 5",
-    "greenhouse:mthreerecruitingportal": "ok: 55",
+    "greenhouse:mthreerecruitingportal": "ok: 51",
     "greenhouse:tenet3": "ok: 1",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 14",
@@ -372,12 +382,12 @@
     "lever:verifiable": "ok: 6",
     "lever:safetyculture-2": "ok: 34",
     "workable:tetrascience": "ok: 37",
-    "workable:systems-engineering-solutions-corporation": "ok: 10",
-    "workable:squaredev": "ok: 20",
-    "workable:telestream": "ok: 7",
+    "workable:systems-engineering-solutions-corporation": "ok: 12",
+    "workable:squaredev": "ok: 21",
+    "workable:telestream": "ok: 4",
     "workable:prosync": "ok: 60",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
-    "workable:reversinglabs": "ok: 11"
+    "workable:reversinglabs": "ok: 10"
   }
 }
