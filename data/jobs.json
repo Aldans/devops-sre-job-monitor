@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T18:56:01.468755Z",
+  "generated_at": "2026-07-08T04:00:28.979399Z",
   "total": 36,
   "jobs": [
     {
@@ -367,7 +367,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 48",
+    "greenhouse:life360": "ok: 34",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 5",
     "greenhouse:mthreerecruitingportal": "ok: 51",
@@ -379,8 +379,8 @@
     "lever:scaleway": "ok: 36",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 21",
-    "lever:verifiable": "ok: 6",
-    "lever:safetyculture-2": "ok: 34",
+    "lever:verifiable": "ok: 5",
+    "lever:safetyculture-2": "ok: 33",
     "workable:tetrascience": "ok: 37",
     "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 21",
