@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T17:56:24.846153Z",
+  "generated_at": "2026-07-15T03:51:31.190593Z",
   "total": 38,
   "jobs": [
     {
@@ -38,16 +38,6 @@
       "location": "United States (Remote)",
       "url": "https://jobs.lever.co/regrello/e4222908-c38b-4c4c-9067-9f66d94c0be2",
       "source": "lever:regrello",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior Site Reliability Engineer II - Infrastructure (AI Native)",
-      "company": null,
-      "location": "Remote, Canada",
-      "url": "https://job-boards.greenhouse.io/life360/jobs/8592885002",
-      "source": "greenhouse:life360",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -148,6 +138,16 @@
       "location": "Paris",
       "url": "https://jobs.lever.co/scaleway/ad74cfd6-edb5-4ea7-a998-52cf8945112b",
       "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/4C5A80DD8A",
+      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -387,7 +387,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 35",
+    "greenhouse:life360": "ok: 33",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 4",
     "greenhouse:mthreerecruitingportal": "ok: 54",
@@ -397,12 +397,12 @@
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 2",
     "lever:scaleway": "ok: 32",
-    "lever:metabase": "ok: 19",
+    "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 19",
     "lever:verifiable": "ok: 4",
     "lever:safetyculture-2": "ok: 36",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 11",
+    "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 21",
     "workable:telestream": "ok: 3",
     "workable:prosync": "ok: 58",
