@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:57:55.348520Z",
+  "generated_at": "2026-07-18T03:47:31.735102Z",
   "total": 38,
   "jobs": [
     {
@@ -75,6 +75,16 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -87,16 +97,6 @@
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -205,28 +205,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -245,8 +225,28 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589040006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -325,8 +325,8 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -335,8 +335,8 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -399,10 +399,10 @@
     "lever:scaleway": "ok: 30",
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 16",
-    "lever:verifiable": "ok: 5",
+    "lever:verifiable": "ok: 4",
     "lever:safetyculture-2": "ok: 36",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 12",
+    "workable:systems-engineering-solutions-corporation": "ok: 11",
     "workable:squaredev": "ok: 21",
     "workable:telestream": "ok: 3",
     "workable:prosync": "ok: 58",
