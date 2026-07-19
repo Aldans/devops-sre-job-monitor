@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T04:16:59.398912Z",
+  "generated_at": "2026-07-19T17:51:05.220684Z",
   "total": 38,
   "jobs": [
     {
@@ -400,7 +400,7 @@
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 16",
     "lever:verifiable": "ok: 4",
-    "lever:safetyculture-2": "ok: 36",
+    "lever:safetyculture-2": "ok: 37",
     "workable:tetrascience": "ok: 35",
     "workable:systems-engineering-solutions-corporation": "ok: 11",
     "workable:squaredev": "ok: 21",
