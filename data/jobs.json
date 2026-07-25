@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:12:12.030899Z",
+  "generated_at": "2026-07-25T03:56:19.221040Z",
   "total": 38,
   "jobs": [
     {
@@ -387,7 +387,7 @@
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 33",
+    "greenhouse:life360": "ok: 31",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
     "greenhouse:mthreerecruitingportal": "ok: 54",
