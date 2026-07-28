@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T18:18:28.415776Z",
-  "total": 37,
+  "generated_at": "2026-07-28T03:53:38.721316Z",
+  "total": 38,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -65,8 +65,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -85,8 +85,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -96,7 +96,7 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -226,7 +226,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -236,7 +236,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -315,8 +315,8 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -325,8 +325,8 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -371,13 +371,23 @@
       "description": "",
       "posted_at": null,
       "priority": 4
+    },
+    {
+      "title": "Staff Platform Engineer",
+      "company": null,
+      "location": "Sydney",
+      "url": "https://jobs.lever.co/safetyculture-2/0f90130a-d970-4d8e-940f-cd2c6c7dbfe1",
+      "source": "lever:safetyculture-2",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
     }
   ],
   "sources_status": {
     "wellfound": "ok: 0",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 32",
+    "greenhouse:life360": "ok: 33",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
     "greenhouse:mthreerecruitingportal": "ok: 54",
