@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:01:42.600086Z",
-  "total": 39,
+  "generated_at": "2026-07-30T03:48:50.243328Z",
+  "total": 36,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -273,16 +273,6 @@
       "priority": 4
     },
     {
-      "title": "Senior Cloud Infrastructure Security Engineer",
-      "company": null,
-      "location": "Sydney",
-      "url": "https://jobs.lever.co/safetyculture-2/33450e9c-6238-4ea2-ad67-016287dd2254",
-      "source": "lever:safetyculture-2",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Senior Site Reliability Engineer: (Mexico - Monterrey)",
       "company": null,
       "location": "Monterrey",
@@ -371,26 +361,6 @@
       "description": "",
       "posted_at": null,
       "priority": 4
-    },
-    {
-      "title": "Staff Cloud Infrastructure Security Engineer",
-      "company": null,
-      "location": "Sydney",
-      "url": "https://jobs.lever.co/safetyculture-2/c0966ef3-8335-4fba-a8c0-9ee974977fc2",
-      "source": "lever:safetyculture-2",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Staff Platform Engineer",
-      "company": null,
-      "location": "Sydney",
-      "url": "https://jobs.lever.co/safetyculture-2/0f90130a-d970-4d8e-940f-cd2c6c7dbfe1",
-      "source": "lever:safetyculture-2",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
     }
   ],
   "sources_status": {
@@ -410,7 +380,7 @@
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 13",
     "lever:verifiable": "ok: 4",
-    "lever:safetyculture-2": "ok: 35",
+    "lever:safetyculture-2": "ok: 2",
     "workable:tetrascience": "ok: 33",
     "workable:systems-engineering-solutions-corporation": "ok: 7",
     "workable:squaredev": "ok: 19",
