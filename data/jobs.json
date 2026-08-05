@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:52:05.816972Z",
-  "total": 38,
+  "generated_at": "2026-08-05T18:15:00.527945Z",
+  "total": 39,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -76,16 +76,6 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
@@ -97,6 +87,16 @@
       "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -225,26 +225,6 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Houston, TX",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -265,8 +245,28 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -278,6 +278,16 @@
       "location": "Houston, TX; New York, NY; USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
       "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "SRE Engineering Manager - GPU Cloud",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/997533a4-7b78-4bed-89e2-8623a428506b",
+      "source": "lever:scaleway",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -396,14 +406,14 @@
     "lever:regrello": "ok: 14",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 0",
-    "lever:scaleway": "ok: 34",
+    "lever:scaleway": "ok: 35",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 11",
     "lever:verifiable": "ok: 4",
     "lever:safetyculture-2": "ok: 2",
-    "workable:tetrascience": "ok: 33",
+    "workable:tetrascience": "ok: 31",
     "workable:systems-engineering-solutions-corporation": "ok: 11",
-    "workable:squaredev": "ok: 19",
+    "workable:squaredev": "ok: 18",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 74",
     "workable:total-ai-systems": "ok: 0",
