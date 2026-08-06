@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T18:15:00.527945Z",
-  "total": 39,
+  "generated_at": "2026-08-06T03:56:30.899942Z",
+  "total": 37,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -33,16 +33,6 @@
       "priority": 1
     },
     {
-      "title": "Senior Site Reliability Engineer",
-      "company": null,
-      "location": "United States (Remote)",
-      "url": "https://jobs.lever.co/regrello/e4222908-c38b-4c4c-9067-9f66d94c0be2",
-      "source": "lever:regrello",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "Ingénieure SRE / Site Reliability Engineer",
       "company": null,
       "location": "Montréal, Quebec, Canada",
@@ -66,26 +56,6 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
@@ -97,6 +67,26 @@
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -225,6 +215,26 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -245,28 +255,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "Houston, TX",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4617731006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -288,16 +278,6 @@
       "location": "Paris",
       "url": "https://jobs.lever.co/scaleway/997533a4-7b78-4bed-89e2-8623a428506b",
       "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Senior Site Reliability Engineer: (Mexico - Monterrey)",
-      "company": null,
-      "location": "Monterrey",
-      "url": "https://jobs.lever.co/regrello/b59962e0-e244-4f03-9073-dfc4c362055f",
-      "source": "lever:regrello",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -400,10 +380,10 @@
     "greenhouse:life360": "ok: 32",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
-    "greenhouse:mthreerecruitingportal": "ok: 57",
+    "greenhouse:mthreerecruitingportal": "ok: 58",
     "greenhouse:tenet3": "ok: 2",
     "lever:brightedge": "ok: 21",
-    "lever:regrello": "ok: 14",
+    "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 0",
     "lever:scaleway": "ok: 35",
@@ -412,7 +392,7 @@
     "lever:verifiable": "ok: 4",
     "lever:safetyculture-2": "ok: 2",
     "workable:tetrascience": "ok: 31",
-    "workable:systems-engineering-solutions-corporation": "ok: 11",
+    "workable:systems-engineering-solutions-corporation": "ok: 9",
     "workable:squaredev": "ok: 18",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 74",
