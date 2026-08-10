@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:04:26.096687Z",
+  "generated_at": "2026-08-10T17:43:47.907816Z",
   "total": 37,
   "jobs": [
     {
@@ -163,6 +163,16 @@
       "priority": 4
     },
     {
+      "title": "Engineering Manager SRE - GPU Cloud",
+      "company": null,
+      "location": "Paris",
+      "url": "https://jobs.lever.co/scaleway/997533a4-7b78-4bed-89e2-8623a428506b",
+      "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Junior SRE/DevOps Engineer",
       "company": null,
       "location": "Athina, Attica, Greece",
@@ -226,7 +236,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -266,7 +276,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -278,16 +288,6 @@
       "location": "Houston, TX; New York, NY; USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
       "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "SRE Engineering Manager - GPU Cloud",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/997533a4-7b78-4bed-89e2-8623a428506b",
-      "source": "lever:scaleway",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -381,14 +381,14 @@
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
     "greenhouse:mthreerecruitingportal": "ok: 61",
-    "greenhouse:tenet3": "ok: 2",
+    "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 21",
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 4",
     "lever:lucidworks": "ok: 0",
-    "lever:scaleway": "ok: 33",
+    "lever:scaleway": "ok: 36",
     "lever:metabase": "ok: 18",
-    "lever:remofirst": "ok: 7",
+    "lever:remofirst": "ok: 6",
     "lever:verifiable": "ok: 5",
     "lever:safetyculture-2": "ok: 2",
     "workable:tetrascience": "ok: 30",
