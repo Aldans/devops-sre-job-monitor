@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T17:18:37.961929Z",
-  "total": 54,
+  "generated_at": "2026-08-18T02:07:56.173956Z",
+  "total": 53,
   "jobs": [
     {
       "title": "DevOps Engineer",
@@ -363,16 +363,6 @@
       "priority": 4
     },
     {
-      "title": "Lead Software Platform Engineer, Core",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/2E992EDA52",
-      "source": "workable:tetrascience",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Lead Software Platform Engineer, MLOps",
       "company": null,
       "location": null,
@@ -547,7 +537,7 @@
     "wellfound": "ok: 30",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 27",
+    "greenhouse:life360": "ok: 28",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
     "greenhouse:mthreerecruitingportal": "ok: 64",
@@ -561,7 +551,7 @@
     "lever:remofirst": "ok: 4",
     "lever:verifiable": "ok: 4",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 28",
+    "workable:tetrascience": "ok: 22",
     "workable:systems-engineering-solutions-corporation": "ok: 7",
     "workable:squaredev": "ok: 30",
     "workable:telestream": "ok: 1",
