@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:14:54.842788Z",
+  "generated_at": "2026-08-24T17:22:56.312269Z",
   "total": 54,
   "jobs": [
     {
@@ -47,6 +47,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4329842-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4377646-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -177,16 +187,6 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4351322-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/1596054-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -547,7 +547,7 @@
     "wellfound": "ok: 31",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 22",
+    "greenhouse:life360": "ok: 21",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 2",
     "greenhouse:mthreerecruitingportal": "ok: 67",
@@ -563,9 +563,9 @@
     "lever:safetyculture-2": "ok: 0",
     "workable:tetrascience": "ok: 21",
     "workable:systems-engineering-solutions-corporation": "ok: 8",
-    "workable:squaredev": "ok: 27",
+    "workable:squaredev": "ok: 26",
     "workable:telestream": "ok: 1",
-    "workable:prosync": "ok: 73",
+    "workable:prosync": "ok: 72",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
     "workable:reversinglabs": "ok: 6"
