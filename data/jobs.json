@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:23:23.411945Z",
+  "generated_at": "2026-08-26T02:16:59.732965Z",
   "total": 54,
   "jobs": [
     {
@@ -416,26 +416,6 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
@@ -446,7 +426,27 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -547,10 +547,10 @@
     "wellfound": "ok: 31",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 20",
+    "greenhouse:life360": "ok: 21",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 2",
-    "greenhouse:mthreerecruitingportal": "ok: 67",
+    "greenhouse:mthreerecruitingportal": "ok: 68",
     "greenhouse:tenet3": "ok: 3",
     "lever:brightedge": "ok: 24",
     "lever:regrello": "ok: 0",
@@ -562,7 +562,7 @@
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
     "workable:tetrascience": "ok: 21",
-    "workable:systems-engineering-solutions-corporation": "ok: 8",
+    "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 26",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 72",
