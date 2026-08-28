@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T01:13:47.328903Z",
-  "total": 55,
+  "generated_at": "2026-08-28T12:20:47.713426Z",
+  "total": 56,
   "jobs": [
     {
       "title": "Cloud DevOps Engineer",
@@ -63,16 +63,6 @@
       "priority": 1
     },
     {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4377646-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "DevOps Engineer - Infrastructure",
       "company": null,
       "location": "North America / Remote",
@@ -126,7 +116,7 @@
       "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer",
+      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -136,7 +126,7 @@
       "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
+      "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -147,6 +137,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4545944-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -186,7 +186,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4545944-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4642712-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -208,6 +208,16 @@
       "location": "Global Remote",
       "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee",
       "source": "lever:metabase",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4550740-senior-site-reliability-engineer",
+      "source": "wellfound",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -554,7 +564,7 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 30",
+    "wellfound": "ok: 32",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 22",
