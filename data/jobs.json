@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:43:21.969083Z",
+  "generated_at": "2026-08-28T01:13:47.328903Z",
   "total": 55,
   "jobs": [
     {
@@ -63,6 +63,16 @@
       "priority": 1
     },
     {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4377646-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "DevOps Engineer - Infrastructure",
       "company": null,
       "location": "North America / Remote",
@@ -116,7 +126,7 @@
       "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
+      "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -126,17 +136,7 @@
       "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -147,6 +147,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -193,26 +203,6 @@
       "priority": 1
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3346540-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "Senior SRE/DevOps Engineer",
       "company": null,
       "location": "Global Remote",
@@ -227,6 +217,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4475687-sr-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Staff DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4550765-staff-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -566,13 +566,13 @@
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 0",
-    "lever:scaleway": "ok: 37",
+    "lever:scaleway": "ok: 38",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 1",
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
     "workable:tetrascience": "ok: 21",
-    "workable:systems-engineering-solutions-corporation": "ok: 15",
+    "workable:systems-engineering-solutions-corporation": "ok: 16",
     "workable:squaredev": "ok: 26",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 72",
