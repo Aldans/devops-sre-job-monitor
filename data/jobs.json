@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:48:30.493216Z",
+  "generated_at": "2026-09-01T19:41:56.080913Z",
   "total": 55,
   "jobs": [
     {
@@ -569,7 +569,7 @@
     "lever:scaleway": "ok: 39",
     "lever:metabase": "ok: 18",
     "lever:remofirst": "ok: 1",
-    "lever:verifiable": "ok: 2",
+    "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
     "workable:tetrascience": "ok: 21",
     "workable:systems-engineering-solutions-corporation": "ok: 15",
@@ -578,6 +578,6 @@
     "workable:prosync": "ok: 72",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 3",
-    "workable:reversinglabs": "ok: 6"
+    "workable:reversinglabs": "ok: 5"
   }
 }
