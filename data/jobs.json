@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:33:51.608336Z",
-  "total": 52,
+  "generated_at": "2026-09-17T19:57:20.173387Z",
+  "total": 53,
   "jobs": [
     {
       "title": "Cloud DevOps Engineer",
@@ -176,16 +176,6 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4522230-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4597716-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
@@ -196,7 +186,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/1596054-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4522230-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -213,11 +203,31 @@
       "priority": 1
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4642712-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "Senior SRE/DevOps Engineer",
       "company": null,
       "location": "Global Remote",
       "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee",
       "source": "lever:metabase",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4550740-senior-site-reliability-engineer",
+      "source": "wellfound",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -245,8 +255,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -275,8 +285,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -296,7 +306,7 @@
       "title": "Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681720006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681745006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -306,7 +316,7 @@
       "title": "Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681745006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681720006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -328,6 +338,16 @@
       "location": "Paris",
       "url": "https://jobs.lever.co/scaleway/e43693d4-7d6f-4d5b-93fb-9239c8ebbc2d",
       "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/E81F52F9CB",
+      "source": "workable:systems-engineering-solutions-corporation",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -396,7 +416,17 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -416,17 +446,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -458,16 +478,6 @@
       "location": null,
       "url": "https://apply.workable.com/j/DC0E864FEA",
       "source": "workable:reversinglabs",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Site Reliability Engineer - SRE",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/b0f0fe3a-3ace-4c93-bbf7-61de22f12c4f",
-      "source": "lever:scaleway",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -524,7 +534,7 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 28",
+    "wellfound": "ok: 30",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 13",
@@ -532,22 +542,22 @@
     "greenhouse:ingenious": "ok: 1",
     "greenhouse:mthreerecruitingportal": "ok: 68",
     "greenhouse:tenet3": "ok: 4",
-    "lever:brightedge": "ok: 25",
+    "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 30",
+    "lever:scaleway": "ok: 29",
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 1",
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 24",
-    "workable:systems-engineering-solutions-corporation": "ok: 10",
+    "workable:tetrascience": "ok: 26",
+    "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 7",
     "workable:telestream": "ok: 2",
-    "workable:prosync": "ok: 62",
+    "workable:prosync": "ok: 60",
     "workable:total-ai-systems": "ok: 0",
-    "workable:clear-labs": "ok: 5",
+    "workable:clear-labs": "ok: 6",
     "workable:reversinglabs": "ok: 6"
   }
 }
