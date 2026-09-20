@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T05:30:52.381501Z",
+  "generated_at": "2026-09-20T19:11:37.799099Z",
   "total": 52,
   "jobs": [
     {
@@ -536,7 +536,7 @@
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 30",
+    "lever:scaleway": "ok: 31",
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 1",
     "lever:verifiable": "ok: 3",
