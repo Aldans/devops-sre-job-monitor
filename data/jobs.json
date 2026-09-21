@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:36:10.196401Z",
+  "generated_at": "2026-09-21T20:42:32.905616Z",
   "total": 53,
   "jobs": [
     {
@@ -63,6 +63,16 @@
       "priority": 1
     },
     {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4377646-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "DevOps Engineer - Infrastructure",
       "company": null,
       "location": "North America / Remote",
@@ -116,7 +126,7 @@
       "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
+      "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -126,7 +136,7 @@
       "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer",
+      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -176,16 +186,6 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/1596054-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4545944-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
@@ -196,27 +196,27 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3346540-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4597716-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/1596054-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -245,8 +245,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -265,8 +265,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -296,7 +296,7 @@
       "title": "Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681720006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681745006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -306,7 +306,7 @@
       "title": "Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681745006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4681720006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -383,16 +383,6 @@
       "priority": 4
     },
     {
-      "title": "Pre-Sales Solutions Architect - AI & GPU Infrastructure",
-      "company": null,
-      "location": "Paris",
-      "url": "https://jobs.lever.co/scaleway/d8af9e1e-6250-48e8-97db-5e4e79d7cf20",
-      "source": "lever:scaleway",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Principal Cloud Engineer",
       "company": null,
       "location": null,
@@ -425,6 +415,16 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -437,16 +437,6 @@
       "company": null,
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -468,6 +458,16 @@
       "location": "Houston, TX; New York, NY; USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
       "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/DC0E864FEA",
+      "source": "workable:reversinglabs",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -540,24 +540,24 @@
     "greenhouse:life360": "ok: 14",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 1",
-    "greenhouse:mthreerecruitingportal": "ok: 68",
+    "greenhouse:mthreerecruitingportal": "ok: 64",
     "greenhouse:tenet3": "ok: 5",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 31",
+    "lever:scaleway": "ok: 30",
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 1",
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 26",
+    "workable:tetrascience": "ok: 29",
     "workable:systems-engineering-solutions-corporation": "ok: 12",
     "workable:squaredev": "ok: 7",
     "workable:telestream": "ok: 2",
-    "workable:prosync": "ok: 60",
+    "workable:prosync": "ok: 61",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 7",
-    "workable:reversinglabs": "ok: 5"
+    "workable:reversinglabs": "ok: 6"
   }
 }
