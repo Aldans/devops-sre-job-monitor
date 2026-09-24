@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T19:55:26.257804Z",
-  "total": 53,
+  "generated_at": "2026-09-24T05:36:21.655439Z",
+  "total": 52,
   "jobs": [
     {
       "title": "Cloud DevOps Engineer",
@@ -36,7 +36,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4627456-devops-engineer",
+      "url": "https://wellfound.com/jobs/4171847-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -46,7 +46,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4171847-devops-engineer",
+      "url": "https://wellfound.com/jobs/4627456-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -213,6 +213,16 @@
       "priority": 1
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/3346540-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "Senior SRE/DevOps Engineer",
       "company": null,
       "location": "Global Remote",
@@ -223,40 +233,10 @@
       "priority": 1
     },
     {
-      "title": "Staff DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4550765-staff-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "Ingénieure SRE / Site Reliability Engineer",
       "company": null,
       "location": "Montréal, Quebec, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4706309006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -276,7 +256,27 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -373,16 +373,6 @@
       "priority": 4
     },
     {
-      "title": "Lead Software Platform Engineer, MLOps",
-      "company": null,
-      "location": null,
-      "url": "https://apply.workable.com/j/7CEF637F8F",
-      "source": "workable:tetrascience",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
       "title": "Principal Cloud Engineer",
       "company": null,
       "location": null,
@@ -406,7 +396,17 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -426,27 +426,7 @@
       "title": "Production Support/SRE Analyst",
       "company": null,
       "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4616129006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst",
-      "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4609034006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Production Support/SRE Analyst - Houston, New York",
-      "company": null,
-      "location": "Houston, TX; New York, NY; USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -457,6 +437,16 @@
       "company": null,
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713119006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Production Support/SRE Analyst - Houston, New York",
+      "company": null,
+      "location": "Houston, TX; New York, NY; USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -485,8 +475,8 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -495,8 +485,8 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -537,7 +527,7 @@
     "wellfound": "ok: 28",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 14",
+    "greenhouse:life360": "ok: 15",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 2",
     "greenhouse:mthreerecruitingportal": "ok: 65",
@@ -551,8 +541,8 @@
     "lever:remofirst": "ok: 1",
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 26",
-    "workable:systems-engineering-solutions-corporation": "ok: 12",
+    "workable:tetrascience": "ok: 24",
+    "workable:systems-engineering-solutions-corporation": "ok: 14",
     "workable:squaredev": "ok: 8",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 63",
