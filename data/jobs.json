@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:37:07.993814Z",
+  "generated_at": "2026-10-04T06:29:14.665622Z",
   "total": 48,
   "jobs": [
     {
@@ -17,16 +17,6 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4735230-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -57,6 +47,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4420331-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -133,16 +133,6 @@
       "priority": 1
     },
     {
-      "title": "Principal DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
@@ -166,7 +156,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3940337-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4597716-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -176,7 +166,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4597716-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/3940337-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -233,10 +223,40 @@
       "priority": 1
     },
     {
+      "title": "Staff DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4550765-staff-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "Ingénieure SRE / Site Reliability Engineer",
       "company": null,
       "location": "Montréal, Quebec, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4706309006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -256,27 +276,7 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -446,7 +446,7 @@
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
       "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4717465006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -456,7 +456,7 @@
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
       "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4717465006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -484,7 +484,7 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 27",
+    "wellfound": "ok: 25",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 15",
