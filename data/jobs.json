@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-11T20:43:09.103768Z",
+  "generated_at": "2026-10-12T06:41:09.749633Z",
   "total": 50,
   "jobs": [
+    {
+      "title": "CLOUD ENGINEER",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4824578-cloud-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
     {
       "title": "Cloud DevOps Engineer",
       "company": null,
@@ -13,17 +23,7 @@
       "priority": 1
     },
     {
-      "title": "Cloud Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4824578-cloud-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer",
+      "title": "DEVOPS ENGINEER",
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4824568-devops-engineer",
@@ -56,7 +56,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4420331-devops-engineer",
+      "url": "https://wellfound.com/jobs/4735230-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -66,7 +66,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4735230-devops-engineer",
+      "url": "https://wellfound.com/jobs/4420331-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -255,26 +255,6 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -286,7 +266,27 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -465,16 +465,6 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Site Reliability Engineer / Production Support Analyst",
-      "company": null,
       "location": "USA",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -493,6 +483,16 @@
       "priority": 4
     },
     {
+      "title": "Site Reliability Engineer / Production Support Analyst",
+      "company": null,
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4687363006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Software Engineer - Kubernetes Specialist",
       "company": null,
       "location": "Paris",
@@ -504,7 +504,7 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 29",
+    "wellfound": "ok: 30",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 15",
