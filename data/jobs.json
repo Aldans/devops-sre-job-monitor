@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:23:03.341590Z",
+  "generated_at": "2026-10-15T05:22:10.369535Z",
   "total": 51,
   "jobs": [
     {
@@ -255,16 +255,6 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -287,6 +277,16 @@
       "company": null,
       "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -520,7 +520,7 @@
     "greenhouse:life360": "ok: 15",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 2",
-    "greenhouse:mthreerecruitingportal": "ok: 54",
+    "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 7",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 0",
@@ -531,7 +531,7 @@
     "lever:remofirst": "ok: 0",
     "lever:verifiable": "ok: 2",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 26",
+    "workable:tetrascience": "ok: 32",
     "workable:systems-engineering-solutions-corporation": "ok: 23",
     "workable:squaredev": "ok: 5",
     "workable:telestream": "ok: 1",
