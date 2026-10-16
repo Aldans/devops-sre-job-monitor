@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T05:13:58.840306Z",
-  "total": 50,
+  "generated_at": "2026-10-16T19:46:10.366859Z",
+  "total": 51,
   "jobs": [
     {
       "title": "CLOUD ENGINEER",
@@ -36,7 +36,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4171847-devops-engineer",
+      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -46,7 +46,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
+      "url": "https://wellfound.com/jobs/4171847-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -87,16 +87,6 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4377646-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer (US)",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4817796-devops-engineer-us",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -163,30 +153,10 @@
       "priority": 1
     },
     {
-      "title": "Senior DevOps Engineer",
+      "title": "Principal DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4668323-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4497089-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4523962-principal-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -197,6 +167,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4756804-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -227,6 +207,26 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/1596054-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4668323-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4497089-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -358,6 +358,16 @@
       "location": "Athina, Attica, Greece",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4565571006",
       "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Lead Software Platform Engineer, MLOps",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/7CEF637F8F",
+      "source": "workable:tetrascience",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -504,10 +514,10 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 30",
+    "wellfound": "ok: 31",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 17",
+    "greenhouse:life360": "ok: 19",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 2",
     "greenhouse:mthreerecruitingportal": "ok: 54",
@@ -516,18 +526,18 @@
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 27",
+    "lever:scaleway": "ok: 26",
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 0",
     "lever:verifiable": "ok: 2",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 32",
+    "workable:tetrascience": "ok: 35",
     "workable:systems-engineering-solutions-corporation": "ok: 25",
     "workable:squaredev": "ok: 5",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 51",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 7",
-    "workable:reversinglabs": "ok: 8"
+    "workable:reversinglabs": "ok: 7"
   }
 }
