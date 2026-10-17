@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:46:10.366859Z",
+  "generated_at": "2026-10-17T05:09:14.142048Z",
   "total": 51,
   "jobs": [
     {
@@ -255,16 +255,6 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -287,6 +277,16 @@
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4455218006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -415,8 +415,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -425,8 +425,8 @@
     {
       "title": "Production Support/SRE Analyst",
       "company": null,
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4695851006",
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374536006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -517,7 +517,7 @@
     "wellfound": "ok: 31",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 19",
+    "greenhouse:life360": "ok: 20",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 2",
     "greenhouse:mthreerecruitingportal": "ok: 54",
@@ -532,7 +532,7 @@
     "lever:verifiable": "ok: 2",
     "lever:safetyculture-2": "ok: 0",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 25",
+    "workable:systems-engineering-solutions-corporation": "ok: 24",
     "workable:squaredev": "ok: 5",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 51",
