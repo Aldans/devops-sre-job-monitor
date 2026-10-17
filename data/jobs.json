@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T05:09:14.142048Z",
-  "total": 51,
+  "generated_at": "2026-10-17T18:57:28.463328Z",
+  "total": 50,
   "jobs": [
     {
       "title": "CLOUD ENGINEER",
@@ -126,16 +126,6 @@
       "title": "Lead DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4497214-lead-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Lead DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4493328-lead-devops-engineer",
       "source": "wellfound",
       "description": "",
@@ -166,7 +156,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4756804-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -176,7 +166,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4756804-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -216,7 +206,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4668323-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -226,7 +216,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4497089-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/3346540-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -514,7 +504,7 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 31",
+    "wellfound": "ok: 27",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 20",
