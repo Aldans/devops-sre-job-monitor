@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:31:17.483136Z",
+  "generated_at": "2026-10-23T20:09:36.710792Z",
   "total": 50,
   "jobs": [
     {
@@ -509,9 +509,9 @@
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 19",
     "greenhouse:altium": "ok: 0",
-    "greenhouse:ingenious": "ok: 2",
+    "greenhouse:ingenious": "ok: 1",
     "greenhouse:mthreerecruitingportal": "ok: 54",
-    "greenhouse:tenet3": "ok: 9",
+    "greenhouse:tenet3": "ok: 10",
     "lever:brightedge": "ok: 26",
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
@@ -521,13 +521,13 @@
     "lever:remofirst": "ok: 0",
     "lever:verifiable": "ok: 2",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 35",
+    "workable:tetrascience": "ok: 33",
     "workable:systems-engineering-solutions-corporation": "ok: 21",
     "workable:squaredev": "ok: 5",
-    "workable:telestream": "ok: 1",
-    "workable:prosync": "ok: 64",
+    "workable:telestream": "ok: 2",
+    "workable:prosync": "ok: 83",
     "workable:total-ai-systems": "ok: 0",
     "workable:clear-labs": "ok: 7",
-    "workable:reversinglabs": "ok: 8"
+    "workable:reversinglabs": "ok: 9"
   }
 }
