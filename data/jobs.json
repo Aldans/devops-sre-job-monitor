@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T19:23:49.764097Z",
-  "total": 51,
+  "generated_at": "2026-10-26T05:31:41.083120Z",
+  "total": 50,
   "jobs": [
     {
       "title": "CLOUD ENGINEER",
@@ -56,7 +56,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4171847-devops-engineer",
+      "url": "https://wellfound.com/jobs/4420331-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -66,7 +66,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4420331-devops-engineer",
+      "url": "https://wellfound.com/jobs/4171847-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -156,7 +156,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4756804-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -166,7 +166,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4756804-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -216,17 +216,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4668323-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4497089-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4597716-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -275,8 +265,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -285,8 +275,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -485,16 +475,6 @@
     {
       "title": "Site Reliability Engineer / Production Support Analyst",
       "company": null,
-      "location": "USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 4
-    },
-    {
-      "title": "Site Reliability Engineer / Production Support Analyst",
-      "company": null,
       "location": "Salt Lake City, Utah, United States",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4717465006",
       "source": "greenhouse:mthreerecruitingportal",
@@ -511,10 +491,20 @@
       "description": "",
       "posted_at": null,
       "priority": 4
+    },
+    {
+      "title": "Site Reliability Engineer / Production Support Analyst",
+      "company": null,
+      "location": "USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374788006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 28",
+    "wellfound": "ok: 26",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 19",
