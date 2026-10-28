@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:25:04.714239Z",
+  "generated_at": "2026-10-28T21:27:03.403626Z",
   "total": 49,
   "jobs": [
     {
@@ -502,11 +502,11 @@
     "greenhouse:ingenious": "ok: 1",
     "greenhouse:mthreerecruitingportal": "ok: 53",
     "greenhouse:tenet3": "ok: 11",
-    "lever:brightedge": "ok: 26",
+    "lever:brightedge": "ok: 25",
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 1",
-    "lever:scaleway": "ok: 30",
+    "lever:scaleway": "ok: 32",
     "lever:metabase": "ok: 19",
     "lever:remofirst": "ok: 0",
     "lever:verifiable": "ok: 2",
