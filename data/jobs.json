@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:54:14.351465Z",
+  "generated_at": "2026-11-09T07:20:41.423412Z",
   "total": 51,
   "jobs": [
     {
@@ -7,16 +7,6 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4612845-cloud-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4884642-ai-engineer-clone",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -37,6 +27,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4420331-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4884642-ai-engineer-clone",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
