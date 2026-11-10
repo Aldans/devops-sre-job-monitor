@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-11-09T07:20:41.423412Z",
-  "total": 51,
+  "generated_at": "2026-11-10T00:30:09.975593Z",
+  "total": 52,
   "jobs": [
     {
       "title": "Cloud DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4612845-cloud-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4884642-ai-engineer-clone",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -27,16 +37,6 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4420331-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4884642-ai-engineer-clone",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -166,7 +166,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4903600-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -176,7 +176,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4903600-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -453,6 +453,16 @@
       "priority": 4
     },
     {
+      "title": "Senior Microsoft Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/C79F04C120",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Senior Software Engineer - Kubernetes Specialist",
       "company": null,
       "location": "Paris",
@@ -517,7 +527,7 @@
     "wellfound": "ok: 26",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 24",
+    "greenhouse:life360": "ok: 26",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
     "greenhouse:mthreerecruitingportal": "ok: 57",
@@ -532,12 +542,12 @@
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
     "workable:tetrascience": "ok: 35",
-    "workable:systems-engineering-solutions-corporation": "ok: 21",
+    "workable:systems-engineering-solutions-corporation": "ok: 22",
     "workable:squaredev": "ok: 5",
     "workable:telestream": "ok: 2",
     "workable:prosync": "ok: 86",
     "workable:total-ai-systems": "ok: 0",
-    "workable:clear-labs": "ok: 7",
+    "workable:clear-labs": "ok: 5",
     "workable:reversinglabs": "ok: 9"
   }
 }
