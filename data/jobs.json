@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:04:22.360415Z",
-  "total": 48,
+  "generated_at": "2026-11-11T07:19:14.858041Z",
+  "total": 53,
   "jobs": [
     {
       "title": "Cloud DevOps Engineer",
@@ -363,6 +363,26 @@
       "priority": 4
     },
     {
+      "title": "Lead Software Platform Engineer, MLOps",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/7CEF637F8F",
+      "source": "workable:tetrascience",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Oracle Cloud Infrastructure Senior",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/B06C120E4E",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Principal SRE – Cloud Infrastructure",
       "company": null,
       "location": "Paris",
@@ -423,11 +443,41 @@
       "priority": 4
     },
     {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/DC0E864FEA",
+      "source": "workable:reversinglabs",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior Microsoft Platform Engineer",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/C79F04C120",
+      "source": "workable:systems-engineering-solutions-corporation",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
       "title": "Senior Software Engineer - Kubernetes Specialist",
       "company": null,
       "location": "Paris",
       "url": "https://jobs.lever.co/scaleway/cbfc06ed-28cc-4248-9ef6-d5b2e0bb7a0d",
       "source": "lever:scaleway",
+      "description": "",
+      "posted_at": null,
+      "priority": 4
+    },
+    {
+      "title": "Senior Software Platform Engineer, MLOps",
+      "company": null,
+      "location": null,
+      "url": "https://apply.workable.com/j/9CA82FE870",
+      "source": "workable:tetrascience",
       "description": "",
       "posted_at": null,
       "priority": 4
@@ -487,12 +537,12 @@
     "wellfound": "ok: 26",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
-    "greenhouse:life360": "ok: 28",
+    "greenhouse:life360": "ok: 31",
     "greenhouse:altium": "ok: 0",
     "greenhouse:ingenious": "ok: 3",
     "greenhouse:mthreerecruitingportal": "ok: 55",
     "greenhouse:tenet3": "ok: 6",
-    "lever:brightedge": "ok: 22",
+    "lever:brightedge": "ok: 21",
     "lever:regrello": "ok: 0",
     "lever:quokka": "ok: 0",
     "lever:lucidworks": "ok: 2",
@@ -501,13 +551,13 @@
     "lever:remofirst": "ok: 0",
     "lever:verifiable": "ok: 3",
     "lever:safetyculture-2": "ok: 0",
-    "workable:tetrascience": "ok: 0",
-    "workable:systems-engineering-solutions-corporation": "ok: 0",
-    "workable:squaredev": "ok: 0",
-    "workable:telestream": "ok: 0",
-    "workable:prosync": "ok: 0",
+    "workable:tetrascience": "ok: 35",
+    "workable:systems-engineering-solutions-corporation": "ok: 22",
+    "workable:squaredev": "ok: 5",
+    "workable:telestream": "ok: 2",
+    "workable:prosync": "ok: 86",
     "workable:total-ai-systems": "ok: 0",
-    "workable:clear-labs": "ok: 0",
-    "workable:reversinglabs": "ok: 0"
+    "workable:clear-labs": "ok: 5",
+    "workable:reversinglabs": "ok: 10"
   }
 }
