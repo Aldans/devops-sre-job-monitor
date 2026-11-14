@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T07:07:32.455264Z",
+  "generated_at": "2026-11-14T21:00:48.942455Z",
   "total": 52,
   "jobs": [
     {
@@ -56,7 +56,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4884642-ai-engineer-clone",
+      "url": "https://wellfound.com/jobs/5034540-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -67,6 +67,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4171847-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4884642-ai-engineer-clone",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -136,7 +146,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/5067156-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -146,7 +156,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4522230-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -167,6 +177,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/1596054-senior-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "Senior DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4522230-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -203,16 +223,6 @@
       "priority": 1
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4233999-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "Senior SRE/DevOps Engineer",
       "company": null,
       "location": "Global Remote",
@@ -227,16 +237,6 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/5044712-senior-lead-devops-engineer-federal",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Sr. DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4867060-sr-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -524,7 +524,7 @@
     }
   ],
   "sources_status": {
-    "wellfound": "ok: 26",
+    "wellfound": "ok: 27",
     "startup.jobs": "ok: 0",
     "workatastartup": "ok: 0",
     "greenhouse:life360": "ok: 31",
