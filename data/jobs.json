@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:42:11.081841Z",
+  "generated_at": "2026-11-18T08:01:07.921551Z",
   "total": 53,
   "jobs": [
     {
@@ -26,7 +26,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3074977-devops-engineer",
+      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -36,7 +36,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
+      "url": "https://wellfound.com/jobs/3074977-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -146,16 +146,6 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4607314-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
@@ -176,7 +166,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4522230-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -186,7 +176,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4903600-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/3346540-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -206,7 +196,7 @@
       "title": "Senior DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/3346540-senior-devops-engineer",
+      "url": "https://wellfound.com/jobs/4903600-senior-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -243,6 +233,16 @@
       "priority": 1
     },
     {
+      "title": "Sr. DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4867060-sr-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "Staff AI Platform Engineer",
       "company": null,
       "location": "Remote, USA",
@@ -265,8 +265,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Halifax, Nova Scotia, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -275,8 +275,8 @@
     {
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "location": "Halifax, Nova Scotia, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
