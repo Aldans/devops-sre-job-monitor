@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T01:12:01.063626Z",
-  "total": 67,
+  "generated_at": "2026-11-25T09:20:15.625699Z",
+  "total": 66,
   "jobs": [
     {
       "title": "Android DevOps Engineer",
@@ -33,6 +33,16 @@
       "priority": 1
     },
     {
+      "title": "DAT DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4849194-dat-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
       "title": "Data Platform Engineer",
       "company": null,
       "location": "North America / Remote",
@@ -57,6 +67,16 @@
       "company": null,
       "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/5135870-devops-automation-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Enablement Engineer",
+      "company": null,
+      "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4827605-devops-enablement-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -116,16 +136,6 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4420331-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4805017-devops-engineer",
       "source": "wellfound",
       "description": "",
@@ -146,6 +156,16 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
+      "url": "https://wellfound.com/jobs/4420331-devops-engineer",
+      "source": "wellfound",
+      "description": "",
+      "posted_at": null,
+      "priority": 1
+    },
+    {
+      "title": "DevOps Engineer",
+      "company": null,
+      "location": "North America / Remote",
       "url": "https://wellfound.com/jobs/4171847-devops-engineer",
       "source": "wellfound",
       "description": "",
@@ -156,7 +176,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4899635-devops-engineer",
+      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -166,7 +186,7 @@
       "title": "DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4290051-devops-engineer",
+      "url": "https://wellfound.com/jobs/4899635-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -243,10 +263,10 @@
       "priority": 1
     },
     {
-      "title": "Principal AI Software Engineer - DevOps Acceleration",
+      "title": "Platform and DevOps Engineer",
       "company": null,
       "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/5112613-principal-ai-software-engineer-devops-acceleration",
+      "url": "https://wellfound.com/jobs/5101722-platform-and-devops-engineer",
       "source": "wellfound",
       "description": "",
       "posted_at": null,
@@ -303,16 +323,6 @@
       "priority": 1
     },
     {
-      "title": "Senior DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4562371-senior-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
       "title": "Senior DevOps Engineer, Space",
       "company": null,
       "location": "North America / Remote",
@@ -328,26 +338,6 @@
       "location": "Global Remote",
       "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee",
       "source": "lever:metabase",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Senior Software CAD DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/4854558-senior-software-cad-devops-engineer",
-      "source": "wellfound",
-      "description": "",
-      "posted_at": null,
-      "priority": 1
-    },
-    {
-      "title": "Software CAD DevOps Engineer",
-      "company": null,
-      "location": "North America / Remote",
-      "url": "https://wellfound.com/jobs/5040108-software-cad-devops-engineer",
-      "source": "wellfound",
       "description": "",
       "posted_at": null,
       "priority": 1
@@ -386,6 +376,16 @@
       "title": "Junior Production Support/SRE Analyst ",
       "company": null,
       "location": "Toronto, Ontario, Canada",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
+      "source": "greenhouse:mthreerecruitingportal",
+      "description": "",
+      "posted_at": null,
+      "priority": 3
+    },
+    {
+      "title": "Junior Production Support/SRE Analyst ",
+      "company": null,
+      "location": "Toronto, Ontario, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595152006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
@@ -407,16 +407,6 @@
       "company": null,
       "location": "Halifax, Nova Scotia, Canada",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4668827006",
-      "source": "greenhouse:mthreerecruitingportal",
-      "description": "",
-      "posted_at": null,
-      "priority": 3
-    },
-    {
-      "title": "Junior Production Support/SRE Analyst ",
-      "company": null,
-      "location": "Toronto, Ontario, Canada",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4683660006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -565,8 +555,8 @@
     {
       "title": "Production Support/SRE Analyst - Houston, New York",
       "company": null,
-      "location": "Houston, TX; New York, NY; USA",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713119006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
@@ -575,8 +565,8 @@
     {
       "title": "Production Support/SRE Analyst - Houston, New York",
       "company": null,
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713119006",
+      "location": "Houston, TX; New York, NY; USA",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374341006",
       "source": "greenhouse:mthreerecruitingportal",
       "description": "",
       "posted_at": null,
